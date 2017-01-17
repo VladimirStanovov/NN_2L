@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1484480879 source:c:\codeblocks_projects\nn_2l\main.cpp
+	"main.h"
+
+1484383492 c:\codeblocks_projects\nn_2l\main.h
+	"sample.cpp"
+	<conio.h>
+
+1475340386 c:\codeblocks_projects\nn_2l\sample.cpp
+	"sample.h"
+	<conio.h>
+
+1475340504 c:\codeblocks_projects\nn_2l\sample.h
+	"random_numbers.h"
+	<iostream>
+	<fstream>
+	<string.h>
+	<math.h>
+
+1431509379 c:\codeblocks_projects\nn_2l\random_numbers.h
+	<time.h>
+	<stdlib.h>
+
